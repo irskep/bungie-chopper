@@ -8,24 +8,29 @@ Members: sixthgear (Joshua Cender), irskep (Steve Johnson)
 Code and Art: Joshua Cender and Steve Johnson
 Music: Steve Johnson
 
+![screenshot](screenshot.png)
 
-DEPENDENCIES:
--------------   
+
+DEPENDENCIES
+------------   
 
   Pyglet:     http://www.pyglet.org
   AVbin:      http://avbin.github.io/AVbin/Home/Home.html
 
 
-RUNNING THE GAME:
------------------
+RUNNING THE GAME
+----------------
 
-  python run_game.py
-
-
-HOW TO PLAY THE GAME:
----------------------
-Move the helicopter with the arrow keys
-Fire with A, S, D & W
+```sh
+python run_game.py
+```
 
 
-LICENSE: GPL 2.0 (see License.txt)
+HOW TO PLAY THE GAME
+--------------------
+
+Move the helicopter with the arrow keys.
+Fire with A, S, D & W.
+
+
+LICENSE: GPL 2.0 (see LICENSE.txt)
