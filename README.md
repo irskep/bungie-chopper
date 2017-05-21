@@ -20,6 +20,7 @@ RUNNING THE GAME
 ----------------
 
 ```sh
+pip install -r requirements.txt
 python run_game.py
 ```
 
