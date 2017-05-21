@@ -1,0 +1,5 @@
+appdirs==1.4.3
+packaging==16.8
+pyglet==1.2.4
+pyparsing==2.2.0
+six==1.10.0
