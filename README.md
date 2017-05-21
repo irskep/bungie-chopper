@@ -5,17 +5,9 @@ ELITE BUNGIE CHOPPER SQUADRON
 
 Drive a helicopter with a gunner suspended by a bungie cord through a warzone full of enemy helicopters, airplanes, and turrets. 
 
-```
-Entry in PyWeek #7  <http://www.pyweek.org/7/>
-Team: iDG United
-Members: @sixthgear, @irskep
-
-Code and Art: @sixthgear and @irskep
-Music: @irskep
-```
+Entry in [PyWeek #7](http://www.pyweek.org/7/). Made by @sixthgear and @irskep.
 
 ![screenshot](screenshot.png)
-
 
 DEPENDENCIES
 ------------   
