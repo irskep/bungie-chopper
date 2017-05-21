@@ -1,5 +1,5 @@
-ELITE BUNGIE CHOPPER SQUAD
-==========================
+ELITE BUNGIE CHOPPER SQUADRON
+=============================
 
 ```
 Entry in PyWeek #7  <http://www.pyweek.org/7/>
