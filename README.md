@@ -1,6 +1,8 @@
 ELITE BUNGIE CHOPPER SQUADRON
 =============================
 
+[PyWeek page (binaries don't work)](https://pyweek.org/e/idg/)
+
 ```
 Entry in PyWeek #7  <http://www.pyweek.org/7/>
 Team: iDG United
